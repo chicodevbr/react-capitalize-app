@@ -1,0 +1,12 @@
+.textArea {
+  font: inherit;
+  padding: 0.35rem;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  display: block;
+  width: 25rem;
+}
+
+.textArea textarea:focus {
+  outline-color: #044599;
+}
